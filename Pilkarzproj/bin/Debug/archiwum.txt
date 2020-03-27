@@ -1,0 +1,4 @@
+Robert|Lewandowski|31|83
+Leo|Messi|32|75
+Piotr|Zielinski|24|75
+Suarez|Luis|34|84
